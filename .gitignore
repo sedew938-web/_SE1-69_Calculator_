@@ -1,0 +1,9 @@
+venv/
+env/
+.virtualenv/
+node_modules
+__pycache__/
+*.__pycache__
+*.pyo/
+.log
+.vscode
