@@ -12,4 +12,4 @@
 git add . #เพิ่มไฟล์ใหม่ 'u'
 git coomit -m "[คอมเม้นต์กันลืม]" #คอมเม้นต์
 git remote origin [URL]
-git push -u origin main ## puash เข้า git
+git push -u origin main ## puash เข้า git https://github.com/sedew938-web/_SE1-69_Calculator_.git
